@@ -10,4 +10,4 @@ will allow use as an Access Point to set up wifi.
 You'll need my fork of the IRRemote ESP8266 library for the Dyson
 remote protocol support.
 
-[schematic](hardware/irthrowie.sch.png)
+![schematic](hardware/irthrowie.sch.png)
