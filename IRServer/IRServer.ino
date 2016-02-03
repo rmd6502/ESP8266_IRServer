@@ -11,10 +11,8 @@
 #include <IRremoteESP8266.h>
 #include <limits.h>
  
-//const char* ssid = "Diamond7772.4";
-//const char* password = "zxTuACtZo4ueKr4Y";
-const char* ssid = "Viscaino-2";
-const char* password = "dYxaw-0p1tw,4alr1ac?";
+const char* ssid = "***";
+const char* password = "***";
 MDNSResponder mdns;
 
 ESP8266WebServer server(80);
